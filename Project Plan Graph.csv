@@ -1,0 +1,102 @@
+Name,Type,Duration
+BRAIN CREATION,milestone,
+Export historical data from Production environment,task,20
+HiredScore Data Science Team to build Sobeys Custom Brain,task,20
+Initial EEO Data Report,task,10
+IMPLEMENTATION KICK OFF,milestone,
+HiredScore <> Sobeys updated project plan review,deliverable,7
+Hold Kick Off Meeting with wider team (Paradox optional) to review revised joint timeline and Implementation smartbook,meeting,7
+Sobeys and Paradox to fill out and return Project Contact List after the call,deliverable,3
+PARADOX INTEGRATION,milestone,7
+Paradox <> HiredScore Technical Kick-Off for Project Initiation,meeting,7
+Paradox Integration Setup (Staging),task,7
+"Validate HiredScore <> Paradox Integration setup
+ (Staging)",task,3
+Paradox Integration Setup (Production),task,7
+"Validate of HiredScore <> Paradox Integration setup
+ (Production)",task,3
+"CUSTOMIZATIONS, CONFIGURATIONS & WORKFLOWS",milestone,
+Hold HiredScore Configuration and Customizations Meeting (HS to present possible options),meeting,7
+"HiredScore to send Customization Pack: Fetch Configurations, Email Templates, Prescreening Questions",deliverable,10
+Walk-through of key recruiter workflow actions in SFSF; Discussion of key features currently utilized in SFSF to inform HS of Company’s customizations and configuration.,meeting,1
+If available: Walk-through of key recruiter and hiring manager workflow actions in SFSF,meeting,1
+Hold HM Hub Customizations Meeting,meeting,1
+"HiredScore to send HM Hub Customization Options Packet: Section configuration, Email verbiage, help page, first-time pop-up",deliverable,3
+Conduct one-on-one calls with 1-2 selected Hiring Managers,meeting,1
+Sobeys to review email templates verbiage and translations,task,5
+Confirm Insights & pre-screening questions,task,7
+Initial MyStats choice,task,7
+My Notifications' for TAs,task,7
+Confirm link for Help icon (Training materials on client portal),task,7
+Review Section Titles & Action button names in the Hub,task,7
+HiredScore to provide translated materials for customizations,task,10
+Sobeys to review translated materials for Feature customizations,task,10
+Revisit existing statuses in client’s SFSFwill be relevant for use in HiredScore’s HM Hub and define with Paradox status workflow,task,5
+Confirm if any custom built-for-Sobeys fields or parameters are required for HiredScore <> Paradox integration,task,5
+Sobeys to return initial customization choices to HS,deliverable,10
+D&I METRICS AND ANALYTICS APPROACH,milestone,
+"Sobeys to present to HiredScore team of D&I startegy, annual targets and goals, and current D&I solutions and processes",meeting,1
+HS to provide TA Metrics Questionnaire,deliverable,1
+Sobeys to provide Answers to TA Metrics Questionnaire,deliverable,5
+Hold TA Metrics and Post-Launch Partnership,meeting,1
+HiredScore to present and review the 1st cut of Sobeys's D&I Data Insights and identify senior HR leadership material insights,meeting,7
+Present to Sobeys's HR Leadership the Data Insight findings and solution needs,meeting,7
+HiredScore to present to Sobeys possible customization options available in the D&I product,deliverable,7
+Sobeys to decide on D&I customizations,deliverable,15
+TESTING APPROACH,milestone,
+"Meeting to discuss any test data requirements, environment and requested scenarios for testing, including HM Hub validation & Paradox integration",meeting,7
+HS to define enriched test data pack for all languages,task,3
+HS to provide enriched test data pack for all languages,deliverable,7
+"TRAINING, CHANGE MANAGEMENT & PARTNERSHIP APPROACH",milestone,
+"Meeting to discuss any required Change Management activities, including any SFSF visualization settings, HM Change Management considerations",meeting,7
+"HiredScore to provide teaser flyer, postcard and template mail to send to users about changes in SFSF",deliverable,1
+Confirm Comms approach to notify Hiring Managers of HM Hub workflow with TAs,deliverable,8
+HiredScore to provide sample training deck,deliverable,3
+HiredScore to provide translated sample training deck,deliverable,3
+Sobeys to confirm drafts and templates,task,5
+"Sobeys to confirm translated drafts, templates and additional materials",task,5
+Sobeys to confirm launch/training Logistics,task,5
+HS to share Training materials and alignment on collaboration tasks for FAQ Guide/Training materials together with Paradox Training Lead,deliverable,5
+ONGOING INTEGRATION SET UP,milestone,
+Define communication plan for any SFSF upgrades and modifications for post-go-live support communication plan.,task,7
+"Revisit Kick Off questionnaire, and update according to new settings",task,7
+Confirm integration parameters are correct for Sobeys Paradox Interview Scheduling HM Hub Integration and iterate as required,task,7
+Sobeys to set up SSO configuration,task,7
+HiredScore to set up SSO configuration,task,7
+Validate SSO configuration,task,7
+Sobeys to set up test Req (Staging),task,7
+Sobeys to configure HS related fields in SFSF (Staging),task,7
+HiredScore to validate configuration (Staging),task,7
+Sobeys to set up Test Req (Production),task,7
+Sobeys to configure HS related fields in SFSF (Production),task,7
+HiredScore to validate configuration (Production)*,task,7
+Confirmation of Status Workflows and modification of Statuses (CSW),task,7
+Client HRIS to finalize SFSF workflow and notify HiredScore of final version,task,7
+"Confirm Pending action buckets, last supported status",task,7
+Confirm configurations and customizations,task,7
+HS to update configurations and adaptations based on changes as needed,task,
+PRE GO LIVE VALIDATIONS & USER COMMS,milestone,
+Confirmation of Final User List (Recruiters),deliverable,7
+Nominate UAT Testers (Staging & Prod),task,7
+Schedule UAT session (Staging & Prod),task,7
+Conduct HS led UAT session verifying that all HiredScore functionality in the Staging Environment and configuration is setup. Session length: 1-1.5 hour,meeting,7
+HS to share UAT results report with Sobeys,deliverable,7
+Confirmation of Final HM User List,task,7
+Nominate UAT Testers (HM Hub),task,7
+Schedule UAT session (HM Hub),task,7
+Conduct HS led UAT session verifying that all HiredScore functionality in the Production Environment and configuration is setup. Session length: 1.5 hour,meeting,7
+HS to share UAT results report with Sobeys,deliverable,7
+Validation of Paradox IV scheduling integration with HiredScore for HM Hub and TA Dashboard,task,7
+Conduct HS led UAT session verifying that all HiredScore functionality in the Production Environment and configuration is setup. Session length: 1-1.5 hour,meeting,15
+HS to share UAT results report with Sobeys,deliverable,7
+Schedule Demo session & invite TAs,task,7
+Assemble recruiters and relevant team members for virtual HiredScore demo,meeting,7
+Review logistics for the Launch,task,7
+Notify TAs about visibility of grades in SFSF(via email template),task,7
+HS to start sending grades into SFSF,task,7
+GO-LIVE AND POST-LAUNCH PARTNERSHIP,milestone,
+"1.5 - 2-hours Training session and go-live for D&I Modules (if relevant) within Spotlight, Fetch & HM Hub Solutions
+ for TAs/Recruiters; HS to send go-live communication to licensed recruiters on launch day",meeting,2
+Job Writing Initial Phase 1 Release & Training Review in English,deliverable,
+Job Writing Feedback in English and French Canadian,task,
+Biweekly post-launch calls with Project Team and Customer Success,meeting,
